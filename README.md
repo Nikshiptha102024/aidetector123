@@ -69,6 +69,8 @@ Prediction Result
  Architecture
  <img width="916" height="407" alt="image" src="https://github.com/user-attachments/assets/d55dedf1-99c4-43b8-8f48-be6cbbcc54b7" />
 
+
+
  API Endpoints
  Homepage
 •	Endpoint: /
@@ -86,8 +88,11 @@ Response:
 Team Members
 Devara Nikshiptha – ai ,backend 
 Bevara Hima Varshitha – front end 
+
  License
+ 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project with proper attribution.
+
 
  Future Enhancements
 Hybrid Feature + CNN Approaches
